@@ -95,3 +95,7 @@ The application is deployed on Render and uses MongoDB Atlas as its cloud databa
 ## Author
 
 Developed by a Computer Science student as a full-stack MERN project focused on helping students and job seekers manage their career growth more effectively.
+
+
+## DEPLOYED WEBSITE LINK
+https://careeros-4-2.onrender.com
