@@ -38,7 +38,7 @@
 
 // export default api;
 
-mport axios from 'axios';
+import axios from 'axios';
 
 const api = axios.create({
   baseURL: 'https://careeros-3-2ujf.onrender.com/api',
